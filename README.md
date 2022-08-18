@@ -8,23 +8,13 @@
 
 ## Проекты:
 #### Командные:
-Частная клиники:
- > [Frontend](https://github.com/Mvdjabrail/Hospital_Frontend.git)
- 
- > [Backend](https://github.com/Mvdjabrail/Hospital_Backend.git)
- 
-Автотюнинг:
-> [Frontend](https://github.com/Mvdjabrail/AutoTuningFrontend.git)
+> [Частная клиника](https://github.com/Mvdjabrail/Hospital_Frontend.git)
 
-> [Backend](https://github.com/Mvdjabrail/AutoTuningBackend.git)
+> [Автотюнинг](https://github.com/Mvdjabrail/AutoTuningFrontend.git)
 
 Соло проекты:
 
-Новостной сайт:
-
-> [Frontend](https://github.com/Mvdjabrail/Frontend_News.git)
-
-> [Backend](https://github.com/Mvdjabrail/Backend_News.git)
+> [Новостной сайт](https://github.com/Mvdjabrail/Frontend_News.git)
 
 ### Мои контакты:
  <a href="https://t.me/Mvdjabrail"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
