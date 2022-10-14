@@ -12,7 +12,7 @@
 
 > [Автотюнинг](https://github.com/Mvdjabrail/AutoTuningFrontend.git)
 
-Соло проекты:
+Соло:
 
 > [Новостной сайт](https://github.com/Mvdjabrail/Frontend_News.git)
 
